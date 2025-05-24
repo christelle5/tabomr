@@ -1,0 +1,8 @@
+torch~=2.6.0
+torchvision
+torchaudio
+ultralytics~=8.3.74
+opencv-python~=4.11.0.86
+tensorflow~=2.18.0
+numpy~=2.0.2
+matplotlib~=3.10.0
