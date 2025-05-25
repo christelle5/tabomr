@@ -31,7 +31,7 @@ The system works with printed guitar tablature that meets the following structur
 ### 1. Clone the repository
 
 ```bash  
-git clone https://github.com/yourusername/tabomr.git  
+git clone https://github.com/christelle5/tabomr.git  
 cd tabomr
 ```
 
